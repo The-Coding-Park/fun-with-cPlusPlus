@@ -16,7 +16,6 @@ class Counter
 		}
 };
 int Counter :: count = 0;
-
 int main()
 {
 	Counter OB1,OB2, OB3,OB4;
